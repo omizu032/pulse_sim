@@ -8,7 +8,7 @@
 
 // 【パルス幅設定】マイクロ秒（us）単位
 // 1カウント = 4マイクロ秒 (4μs)としているので4の倍数で設定する
-#define PULSE_WIDTH_US 40
+#define PULSE_WIDTH_US 48
 
 // 動作モード
 enum Mode { MODE_MANUAL, MODE_SWEEP_PHASE1, MODE_SWEEP_PHASE2 };
